@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1057889452338",
+    "firebase_url": "https://hangout4-8444e.firebaseio.com",
+    "project_id": "hangout4-8444e",
+    "storage_bucket": "hangout4-8444e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057889452338:android:987759b86bda1f9bc3172b",
+        "android_client_info": {
+          "package_name": "com.app.event.hangout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057889452338-87174i8t4g6rioouvo1lbooolfrksbnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDabhCmjC_ylZY0IXn245oOPwntAFWYr44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057889452338-87174i8t4g6rioouvo1lbooolfrksbnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
